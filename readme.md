@@ -22,3 +22,10 @@ Selection sort iterates through a list and checks if the number is larger than t
 ```
 # Open the file and input an array
 ```
+
+### Selection V2
+Uses the same sort of idea as the original Selection sort algorithm except uses max() and min() instead of a 
+custom sycle that may slow down the sorting
+```
+# Open the file and input an array
+```
