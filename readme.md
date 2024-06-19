@@ -1,4 +1,6 @@
 # Encoders, Decoders, Encryptors, Decryptors and More
+Contains some snippets of code for different algorithms relating to the different sectors of Cryptography.
+
 
 ## Encoders
 
