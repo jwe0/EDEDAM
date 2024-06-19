@@ -14,6 +14,12 @@ Also known as Caesar cipher named after Julius Caesar. Rot shifts the letter to 
 python3 Rot.py --mode encode --string Test --shift 13
 ```
 
+### Rot 2
+A more clean version of the original Rot encoder.
+```
+python3 Rot.py --mode encode --string Test --shift 13
+```
+
 
 ## Sorting Algorithms
 
