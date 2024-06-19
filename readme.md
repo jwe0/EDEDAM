@@ -35,3 +35,11 @@ custom sycle that may slow down the sorting
 ```
 # Open the file and input an array
 ```
+
+## Encryptors
+
+### AES CBC
+An implementation of AES encryption with the pycrytodome library. Contains a custom function to generate more random keys from your password by encoding in base85 and using rot13 to also ensure it is 16 chars long.
+```
+python3 "Aes CBC.py"
+```
