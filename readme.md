@@ -22,6 +22,12 @@ A more clean version of the original Rot encoder.
 python3 Rot.py --mode encode --string Test --shift 13
 ```
 
+### Bacon
+A classical cypher known as Bacon or Baconian cypher named after Francis Bacon that utilizes 2 different type faces to hide your message.
+```
+python3 Bacon.py -m encode -s "Hello"
+```
+
 
 ## Sorting Algorithms
 
