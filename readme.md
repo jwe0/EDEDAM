@@ -28,6 +28,12 @@ A classical cypher known as Bacon or Baconian cypher named after Francis Bacon t
 python3 Bacon.py -m encode -s "Hello"
 ```
 
+### Polybius suare/checkerboard
+A type of substitution cipher that uses a 5x5 square grid and a 25 letter alphabet to convert the string to its corresponding coordinates in the grid.
+```
+python3 Polybius.py --mode encode --string "Hello World"
+```
+
 
 ## Sorting Algorithms
 
